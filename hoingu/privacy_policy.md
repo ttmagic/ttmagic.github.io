@@ -16,12 +16,12 @@ Các điều khoản được sử dụng trong Chính sách quyền riêng tư 
 
 Liên kết với chính sách bảo mật của nhà cung cấp dịch vụ bên thứ ba được ứng dụng sử dụng
 
-* [Dịch vụ Google Play] (https://www.google.com.vn/polaho/privacy/)
-* [AdMob] (https://support.google.com/admob đá/6128543?hl=vi)
-* [Firebase Analytics] (https://firebase.google.com/polaho/analytics)
-* [Facebook] (https://www.facebook.com/about/privacy)
-* [Fabric] (https://foven.io/privacy)
-* [Crashlytics] (http://try.crashlytics.com/terms/privacy-policy.pdf)
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+*   [Facebook](https://www.facebook.com/about/privacy)
+*   [Fabric](https://fabric.io/privacy)
+*   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
 
 **Dữ liệu đăng nhập**
 
