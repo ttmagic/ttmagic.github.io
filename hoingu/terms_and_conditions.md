@@ -1,3 +1,31 @@
+## Điều khoản và điều kiện
+
+Bằng cách tải xuống hoặc sử dụng ứng dụng, các điều khoản này sẽ tự động áp dụng cho bạn - do đó bạn nên đảm bảo rằng bạn đã đọc chúng cẩn thận trước khi sử dụng ứng dụng. Bạn không được phép sao chép hoặc sửa đổi ứng dụng, bất kỳ phần nào của ứng dụng hoặc nhãn hiệu của chúng tôi dưới bất kỳ hình thức nào. Bạn không được phép trích xuất mã nguồn của ứng dụng và bạn cũng không nên cố gắng dịch ứng dụng sang các ngôn ngữ khác hoặc tạo các phiên bản phái sinh. Bản thân ứng dụng và tất cả các nhãn hiệu thương mại, bản quyền, quyền cơ sở dữ liệu và các quyền sở hữu trí tuệ khác liên quan đến nó, vẫn thuộc về TTmagic.
+
+TTmagic cam kết đảm bảo rằng ứng dụng này hữu ích và hiệu quả nhất có thể. Vì lý do đó, chúng tôi có quyền thay đổi ứng dụng hoặc tính phí cho các dịch vụ của ứng dụng đó bất cứ lúc nào và vì bất kỳ lý do gì. Chúng tôi sẽ không bao giờ tính phí cho bạn cho ứng dụng hoặc dịch vụ của ứng dụng mà không nói rõ cho bạn biết chính xác những gì bạn đang trả tiền.
+
+Ứng dụng Hỏi Ngu lưu trữ và xử lý dữ liệu cá nhân mà bạn đã cung cấp cho chúng tôi để cung cấp Dịch vụ của tôi. Trách nhiệm của bạn là giữ điện thoại của bạn truy cập vào ứng dụng một cách an toàn. Do đó, chúng tôi khuyên bạn không nên bẻ khóa hoặc root điện thoại, đây là quá trình loại bỏ các hạn chế và giới hạn phần mềm được áp đặt bởi hệ điều hành chính thức của thiết bị. Nó có thể làm cho điện thoại của bạn dễ bị phần mềm độc hại / vi rút / chương trình độc hại làm tổn hại đến các tính năng bảo mật của điện thoại của bạn và điều đó có thể có nghĩa là ứng dụng Hỏi Ngu sẽ hoạt động không chính xác.
+
+Bạn nên lưu ý rằng có một số điều mà TTmagic sẽ không chịu trách nhiệm. Một số chức năng của ứng dụng sẽ yêu cầu ứng dụng phải có kết nối internet hoạt động. Kết nối có thể là Wi-Fi hoặc do nhà cung cấp mạng di động của bạn cung cấp, nhưng TTmagic không thể chịu trách nhiệm cho ứng dụng không hoạt động đầy đủ chức năng nếu bạn không có quyền truy cập Wi-Fi và bạn không có bất kỳ ứng dụng nào của bạn phụ cấp dữ liệu còn lại.
+
+Nếu bạn sử dụng ứng dụng bên ngoài khu vực có Wi-Fi, bạn nên nhớ rằng các điều khoản trong thỏa thuận với nhà cung cấp mạng di động của bạn sẽ vẫn được áp dụng. Do đó, nhà cung cấp dịch vụ di động của bạn có thể phải trả chi phí dữ liệu trong suốt thời gian kết nối trong khi truy cập ứng dụng hoặc các khoản phí của bên thứ ba khác. Khi sử dụng ứng dụng, bạn phải chịu trách nhiệm cho bất kỳ khoản phí nào như vậy, bao gồm cả phí chuyển vùng dữ liệu nếu bạn sử dụng ứng dụng bên ngoài lãnh thổ nhà của bạn (tức là khu vực hoặc quốc gia) mà không tắt chuyển vùng dữ liệu. Nếu bạn không phải là người trả hóa đơn cho thiết bị mà bạn đang sử dụng ứng dụng, xin lưu ý rằng chúng tôi cho rằng bạn đã nhận được sự cho phép của người trả hóa đơn khi sử dụng ứng dụng.
+
+Đồng thời, TTmagic không thể luôn chịu trách nhiệm về cách bạn sử dụng ứng dụng, tức là bạn cần đảm bảo rằng thiết bị của bạn vẫn được sạc - nếu hết pin và bạn không thể bật nó lên để sử dụng Dịch vụ, TTmagic không thể chấp nhận trách nhiệm.
+
+Đối với trách nhiệm của TTmagic đối với việc bạn sử dụng ứng dụng, khi bạn sử dụng ứng dụng, điều quan trọng là phải nhớ rằng mặc dù chúng tôi nỗ lực để đảm bảo rằng nó luôn được cập nhật và sửa chữa, chúng tôi luôn dựa vào bên thứ ba để cung cấp thông tin cho chúng tôi để chúng tôi có thể cung cấp cho bạn. TTmagic không chịu trách nhiệm cho bất kỳ tổn thất nào, trực tiếp hoặc gián tiếp, bạn trải nghiệm do kết quả của việc dựa hoàn toàn vào chức năng này của ứng dụng.
+
+Tại một số điểm, chúng tôi có thể muốn cập nhật ứng dụng. Ứng dụng hiện có sẵn trên Android - các yêu cầu đối với hệ thống (và đối với mọi hệ thống bổ sung mà chúng tôi quyết định mở rộng tính khả dụng của ứng dụng) có thể thay đổi và bạn sẽ cần phải tải xuống các bản cập nhật nếu bạn muốn tiếp tục sử dụng ứng dụng. TTmagic không hứa hẹn rằng nó sẽ luôn cập nhật ứng dụng sao cho phù hợp với bạn và / hoặc hoạt động với phiên bản Android mà bạn đã cài đặt trên thiết bị của mình. Tuy nhiên, bạn hứa sẽ luôn chấp nhận các bản cập nhật cho ứng dụng khi được cung cấp cho bạn, Chúng tôi cũng có thể muốn ngừng cung cấp ứng dụng và có thể chấm dứt sử dụng bất cứ lúc nào mà không cần thông báo chấm dứt cho bạn. Trừ khi chúng tôi nói với bạn nếu không, khi có bất kỳ chấm dứt nào, (a) các quyền và giấy phép được cấp cho bạn trong các điều khoản này sẽ kết thúc; (b) bạn phải ngừng sử dụng ứng dụng và (nếu cần) xóa nó khỏi thiết bị của bạn.
+
+**Các thay đổi về Điều khoản và Điều kiện này**
+
+Thỉnh thoảng tôi có thể cập nhật Điều khoản và Điều kiện. Vì vậy, bạn nên xem lại trang này định kỳ cho bất kỳ thay đổi. Tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Điều khoản và Điều kiện mới trên trang này. Những thay đổi này có hiệu lực ngay sau khi chúng được đăng trên trang này.
+
+**Liên hệ chúng tôi**
+
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Điều khoản và Điều kiện của tôi, đừng ngần ngại liên hệ với tôi.
+
+##
+
 ## Terms & Conditions
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to TTmagic.
@@ -23,5 +51,3 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 **Contact Us**
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me.
-
-This Terms and Conditions page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
