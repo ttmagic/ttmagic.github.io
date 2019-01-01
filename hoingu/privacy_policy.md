@@ -1,3 +1,65 @@
+## Chính sách bảo mật
+
+TTmagic đã xây dựng ứng dụng Hỏi Ngu như một ứng dụng có kèm Quảng cáo. DỊCH VỤ này được cung cấp bởi TTmagic miễn phí và được dự định sử dụng.
+
+Trang này được sử dụng để thông báo cho khách truy cập về các chính sách của tôi với việc thu thập, sử dụng và tiết lộ Thông tin cá nhân nếu có ai quyết định sử dụng Dịch vụ của tôi.
+
+Nếu bạn chọn sử dụng Dịch vụ của tôi, thì bạn đồng ý với việc thu thập và sử dụng thông tin liên quan đến chính sách này. Thông tin cá nhân mà tôi thu thập được sử dụng để cung cấp và cải thiện Dịch vụ. Tôi sẽ không sử dụng hoặc chia sẻ thông tin của bạn với bất kỳ ai trừ khi được mô tả trong Chính sách bảo mật này.
+
+Các điều khoản được sử dụng trong Chính sách quyền riêng tư này có cùng ý nghĩa như trong Điều khoản và Điều kiện của chúng tôi, có thể truy cập tại Hỏi Ngu trừ khi được quy định khác trong Chính sách bảo mật này.
+
+**Thu thập và sử dụng thông tin**
+
+Để có trải nghiệm tốt hơn, trong khi sử dụng Dịch vụ của chúng tôi, tôi có thể yêu cầu bạn cung cấp cho chúng tôi thông tin nhận dạng cá nhân nhất định, bao gồm nhưng không giới hạn ở tên, ảnh hồ sơ. Thông tin mà tôi yêu cầu sẽ được lưu giữ trên thiết bị của bạn và không được tôi thu thập dưới bất kỳ hình thức nào.
+
+Ứng dụng sử dụng dịch vụ của bên thứ ba có thể thu thập thông tin được sử dụng để nhận dạng bạn.
+
+Liên kết với chính sách bảo mật của nhà cung cấp dịch vụ bên thứ ba được ứng dụng sử dụng
+
+* [Dịch vụ Google Play] (https://www.google.com.vn/polaho/privacy/)
+* [AdMob] (https://support.google.com/admob đá/6128543?hl=vi)
+* [Firebase Analytics] (https://firebase.google.com/polaho/analytics)
+* [Facebook] (https://www.facebook.com/about/privacy)
+* [Fabric] (https://foven.io/privacy)
+* [Crashlytics] (http://try.crashlytics.com/terms/privacy-policy.pdf)
+
+**Dữ liệu đăng nhập**
+
+Tôi muốn thông báo cho bạn rằng bất cứ khi nào bạn sử dụng Dịch vụ của tôi, trong trường hợp có lỗi trong ứng dụng, tôi sẽ thu thập dữ liệu và thông tin (thông qua các sản phẩm của bên thứ ba) trên điện thoại của bạn có tên là Dữ liệu Đăng nhập. Dữ liệu nhật ký này có thể bao gồm thông tin như địa chỉ Giao thức Internet (IP IP của thiết bị), tên thiết bị, phiên bản hệ điều hành, cấu hình của ứng dụng khi sử dụng Dịch vụ của tôi, thời gian và ngày sử dụng Dịch vụ của bạn và các thống kê khác .
+
+**Các nhà cung cấp dịch vụ**
+
+Tôi có thể sử dụng các công ty và cá nhân bên thứ ba vì những lý do sau:
+
+*   Để tạo điều kiện cho Dịch vụ của chúng tôi;
+*   Để cung cấp Dịch vụ thay mặt chúng tôi;
+*   Để thực hiện các dịch vụ liên quan đến Dịch vụ; hoặc là
+*   Để hỗ trợ chúng tôi phân tích cách thức Dịch vụ của chúng tôi được sử dụng.
+
+Tôi muốn thông báo cho người dùng Dịch vụ này rằng các bên thứ ba này có quyền truy cập vào Thông tin cá nhân của bạn. Lý do là để thực hiện các nhiệm vụ được giao cho họ thay mặt chúng tôi. Tuy nhiên, họ có nghĩa vụ không tiết lộ hoặc sử dụng thông tin cho bất kỳ mục đích nào khác.
+
+**Bảo vệ**
+
+Tôi đánh giá cao sự tin tưởng của bạn trong việc cung cấp cho chúng tôi Thông tin cá nhân của bạn, do đó chúng tôi đang cố gắng sử dụng các phương tiện bảo vệ thương mại có thể chấp nhận được. Nhưng hãy nhớ rằng không có phương thức truyền qua internet, hoặc phương pháp lưu trữ điện tử nào an toàn và đáng tin cậy 100%, và tôi không thể đảm bảo tính bảo mật tuyệt đối của nó.
+
+**Liên kết đến các trang web khác**
+
+Dịch vụ này có thể chứa các liên kết đến các trang web khác. Nếu bạn nhấp vào liên kết của bên thứ ba, bạn sẽ được chuyển đến trang web đó. Lưu ý rằng các trang web bên ngoài không được vận hành bởi tôi. Do đó, tôi thực sự khuyên bạn nên xem lại Chính sách quyền riêng tư của các trang web này. Tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc thực tiễn của bất kỳ trang web hoặc dịch vụ của bên thứ ba nào.
+
+**Quyền riêng tư của trẻ em**
+
+Các Dịch vụ này không giải quyết bất cứ ai dưới 13 tuổi. Tôi không cố ý thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi. Trong trường hợp tôi phát hiện ra rằng một đứa trẻ dưới 13 tuổi đã cung cấp cho tôi thông tin cá nhân, tôi lập tức xóa thông tin này khỏi máy chủ của chúng tôi. Nếu bạn là cha mẹ hoặc người giám hộ và bạn biết rằng con bạn đã cung cấp cho chúng tôi thông tin cá nhân, vui lòng liên hệ với tôi để tôi có thể thực hiện các hành động cần thiết.
+
+**Thay đổi chính sách bảo mật này**
+
+Tôi có thể cập nhật Chính sách bảo mật của chúng tôi theo thời gian. Vì vậy, bạn nên xem lại trang này định kỳ cho bất kỳ thay đổi. Tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách bảo mật mới trên trang này. Những thay đổi này có hiệu lực ngay sau khi chúng được đăng trên trang này.
+
+**Liên hệ chúng tôi**
+
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Chính sách bảo mật của tôi, đừng ngần ngại liên hệ với tôi.
+
+##
+
 ## Privacy Policy
 
 TTmagic built the Hoi Ngu app as an Ad Supported app. This SERVICE is provided by TTmagic at no cost and is intended for use as is.
@@ -26,12 +88,6 @@ Link to privacy policy of third party service providers used by the app
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
-**Cookies**
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 **Service Providers**
 
